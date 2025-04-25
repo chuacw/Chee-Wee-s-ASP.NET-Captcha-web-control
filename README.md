@@ -8,7 +8,7 @@ Open the solution in Visual Studio and build it.
 # Setup
 
 Copy the chuacw.TelligentCommunity.dll to the bin folder.
-Create a file named "captchaimage.aspx" with the following content and placed it in the Web folder:
+Copy the file named "captchaimage.aspx" to the Web folder:
 
 ```
 <%@ Page Inherits="chuacw.TelligentCommunity.CaptchaImagePage" %>
